@@ -49,7 +49,7 @@
     width: 430px;
     height: 60px;
     background: rgb(42,72,107);
-    background: -moz-linear-gradient(left,  rgba(42,72,107,1) 0%, rgba(80,122,167,1) 100%);
+    background: -moz-linear-gradient(left,  rgb(107, 42, 51) 0%, rgba(80,122,167,1) 100%);
     background: -webkit-linear-gradient(left,  rgba(42,72,107,1) 0%,rgba(80,122,167,1) 100%);
     background: linear-gradient(to right,  rgba(42,72,107,1) 0%,rgba(80,122,167,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2a486b', endColorstr='#507aa7',GradientType=1 );
